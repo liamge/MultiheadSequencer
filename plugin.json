@@ -1,0 +1,25 @@
+{
+  "slug": "MultiheadSequencer",
+  "name": "Multihead Sequencer",
+  "version": "2.0.0",
+  "license": "CCO-1.0",
+  "brand": "Multihead Sequencer",
+  "author": "Liam Geron",
+  "authorEmail": "liams.geron@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MultiheadSequencer",
+      "name": "MultiheadSequencer",
+      "description": "Sequencer with Multiple Playheads",
+      "tags": [
+        "Sequencer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="487.67999mm"
+   height="122.5mm"
+   viewBox="0 0 487.68 122.5"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="MultiheadSequencer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.31891076"
+     inkscape:cx="863.87802"
+     inkscape:cy="346.49191"
+     inkscape:window-width="1104"
+     inkscape:window-height="578"
+     inkscape:window-x="190"
+     inkscape:window-y="198"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="components"
+     style="display:inline">
+    <circle
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="path4"
+       cx="9.3786097"
+       cy="11.353054"
+       r="4.4424992"
+       inkscape:label="Clock 1" />
+    <circle
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="circle5"
+       cx="9.3786097"
+       cy="23.47044"
+       r="4.4424992"
+       inkscape:label="Clock 2" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="path5"
+       cx="22.587822"
+       cy="54.014359"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 1" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="path30"
+       cx="22.083347"
+       cy="75.668236"
+       r="4.4479833"
+       inkscape:label="Light 1" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse30"
+       cx="49.71146"
+       cy="54.014359"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 2" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle30"
+       cx="49.206985"
+       cy="75.668236"
+       r="4.4479833"
+       inkscape:label="Light 2" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse31"
+       cx="77.56163"
+       cy="53.552395"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 3" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle31"
+       cx="77.057159"
+       cy="75.206268"
+       r="4.4479833"
+       inkscape:label="Light 3" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse32"
+       cx="104.68527"
+       cy="53.552395"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 4" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle32"
+       cx="104.18079"
+       cy="75.206268"
+       r="4.4479833"
+       inkscape:label="Light 4" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse33"
+       cx="131.19923"
+       cy="53.190125"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 5" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle33"
+       cx="130.69476"
+       cy="74.844002"
+       r="4.4479833"
+       inkscape:label="Light 5" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse34"
+       cx="158.32288"
+       cy="53.190125"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 6" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle34"
+       cx="157.81841"
+       cy="74.844002"
+       r="4.4479833"
+       inkscape:label="Light 6" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse35"
+       cx="186.17305"
+       cy="52.728161"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 7" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle35"
+       cx="185.66858"
+       cy="74.382034"
+       r="4.4479833"
+       inkscape:label="Light 7" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse36"
+       cx="213.29669"
+       cy="52.728161"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 8" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle36"
+       cx="212.79221"
+       cy="74.382034"
+       r="4.4479833"
+       inkscape:label="Light 8" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse37"
+       cx="241.2226"
+       cy="52.97324"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 9" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle37"
+       cx="240.71812"
+       cy="74.627121"
+       r="4.4479833"
+       inkscape:label="Light 9" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse38"
+       cx="268.34625"
+       cy="52.97324"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 10" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle38"
+       cx="267.84177"
+       cy="74.627121"
+       r="4.4479833"
+       inkscape:label="Light 10" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse39"
+       cx="296.19641"
+       cy="52.511276"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 11" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle39"
+       cx="295.69193"
+       cy="74.165154"
+       r="4.4479833"
+       inkscape:label="Light 11" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse40"
+       cx="323.32004"
+       cy="52.511276"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 12" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle40"
+       cx="322.81558"
+       cy="74.165154"
+       r="4.4479833"
+       inkscape:label="Light 12" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse41"
+       cx="349.83401"
+       cy="52.149006"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 13" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle41"
+       cx="349.32953"
+       cy="73.802887"
+       r="4.4479833"
+       inkscape:label="Light 13" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse42"
+       cx="376.95764"
+       cy="52.149006"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 14" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle42"
+       cx="376.45319"
+       cy="73.802887"
+       r="4.4479833"
+       inkscape:label="Light 14" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse43"
+       cx="404.80783"
+       cy="51.687042"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 15" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle43"
+       cx="404.30334"
+       cy="73.340919"
+       r="4.4479833"
+       inkscape:label="Light 15" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="ellipse44"
+       cx="431.93146"
+       cy="51.687042"
+       rx="12.27599"
+       ry="10.802872"
+       inkscape:label="CV 16" />
+    <circle
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="circle44"
+       cx="431.42697"
+       cy="73.340919"
+       r="4.4479833"
+       inkscape:label="Light 16" />
+    <ellipse
+       style="fill:#0000ff;stroke-width:0.264583"
+       id="path44"
+       cx="473.65137"
+       cy="83.488289"
+       rx="5.3730087"
+       ry="4.9597001"
+       inkscape:label="Output Playhead 1" />
+    <ellipse
+       style="fill:#0000ff;stroke-width:0.264583"
+       id="ellipse45"
+       cx="473.65137"
+       cy="97.954079"
+       rx="5.3730087"
+       ry="4.9597001"
+       inkscape:label="Output Playhead 2" />
+  </g>
+</svg>
